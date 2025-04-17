@@ -1,5 +1,5 @@
 # 2025 CU Athletic Department Internship Program
-Welcome to the home base for the 2025 CU Athletic Department Sports Science internship program! This GitHub repository will be the center of all the work you will create for your internship projects these next 8 weeks! In order to stay organized, please use appropriate file nesting with legible titles, meaningful file names, clear commit messages, commented code, good variable names, and strong note-taking methodology. Everyone has a unique workflow when it comes to data analysis, so it is at your discretion to choose what works for you when deciding on your organization methods.
+Welcome to the home base for the 2025 CU Athletic Department Sports Science internship program! This GitHub repository will be the center of all the work you will create for your internship projects these next 10 weeks! In order to stay organized, please use appropriate file nesting with legible titles, meaningful file names, clear commit messages, commented code, good variable names, and strong note-taking methodology. Everyone has a unique workflow when it comes to data analysis, so it is at your discretion to choose what works for you when deciding on your organization methods.
 
 ## Getting Started
 
@@ -25,8 +25,54 @@ The `notes` folder in the repository will be home to all note-taking documents t
 
 Feel free to create any other folders within the repository as you see fit. All we ask is that you keep the files we provide to you in their original file folder destinations.
 
-## Weekly Schedule
-WORK IN PROGRESS
+# Weekly Schedule
+
+For the regularly scheduled check-ins, we will meet twice a week: once on Monday and once on Friday. If your team needs or wants additional meetings, please reach out to us and we are happy to add times throughout the week!
+
+## Week 1: Background and Research
+Key Deliverables:
+1. Project Roadmap
+2. Condensed Literature Review
+3. First Peer/Performance Review
+  
+### Project Roadmap
+
+This project roadmap will be the blueprint for your team in completing your project. Broken down into week-by-week milestones, this will guide not only your team, but Sports Science staff in our bi-weekly meetings and give us a better idea as to where you may encounter issues. This roadmap is not intended to be a concrete final document, but a flexible and fluid document that will change based on project flow, discoveries, and additional requirements provided by key stakeholders. Some suggested additions to get your roadmap started are hypothesis statements, documentation style and modality (i.e. we will be taking notes in x format), timelines, work assignments, and/or intra-team meeting schedules. Please put this file in PDF format in the `./general-documents/week-1-deliverables` folder by end of day (EoD) Friday of Week 1.
+
+### Condensed Literature Review
+
+Within the `general-documents` folder, there will be a document containing compiled relevant literature on the pertinent topic of this project. Using this literature, please find a few more sources and summarize your findings in a 2-3 page document. 1-2 paragraphs per found source will be sufficient. The main objective of this document is to get you thinking about other variables or influences on your data to guide your analysis. Sports Science staff will also be available throughout this week to help verify the viability of your selected sources as helpful or misleading. Please put this file in PDF format in the `./general-documents/week-1-deliverables` folder by end of day (EoD) Friday of Week 1.
+
+### Peer/ Performance Review
+The `general-documents` folder will contain a performance review document. During our Friday meeting times, a Sports Science staff member will sit down with you and complete a review of the first week. We will cover team cohesion, any roadblocks moving forward, and plans moving forwards. The objective of this deliverable is to keep you on-track and accountable. Please put this file in PDF format in the `./general-documents/week-1-deliverables` folder by end of day (EoD) Friday of Week 1.
+
+## Weeks 2 - 4: Data Analysis
+Key Deliverables:
+1. Daily Meaningful GitHub commits
+2. Second Peer/Performance Review
+
+### Daily Meaningful GitHub Commits
+After week one, the reigns will be loosened, and your team will begin to dive into data analysis. This is a very open-ended section of the project, as you will be able to transform and use the data as you see fit. It is easy to get lost in the weeds or off-track here, so Daily GitHub Commits will allow Sports Science staff to support you and guide you before things become too off-track. The expectation is to log the steps you take to create a reproducible workflow. A "daily" commit means making a GitHub commit each day that your team is scheduled to be on-campus. For example, if your team is here Monday, Wednesday, and Friday, the only expected commits will fall on Monday, Wednesday, and Friday. If you reach a point where you feel there will not be an opportunity to make a meaningful commit for a day, please reach out to the Sports Science staff and we can address this on a case-by-case basis.
+
+### Peer/ Performance Review
+Similar to week one, at the end of Week 4, the `general-documents` folder will contain a performance review document. During our Friday meeting times, a Sports Science staff member will sit down with you and complete a review of the second through fourth weeks. We will cover team cohesion, how well Sports Science staff supported you, a wishlist for next project, and a favorites/ most growth section. The objective of this deliverable is to keep you accountable and set up for the next project. Please put this file in PDF format in the `./general-documents/week-4-deliverables` folder by end of day (EoD) Friday of Week 1.
+
+## Week 5: Conclusion Presentation
+Key Deliverables:
+1. Final Presentation
+2. Final GitHub Repository
+
+### Final Presentation
+In a PowerPoint presentation AND written report, your team will be expected to compile their meaningful visualizations, conclusions, and statistical analysis. Please make sure to cover sampling methods (if used), possible biases (and how to limit them), scalability (i.e. adding variables, application to other sports), and defining the data specifically (center, shape, spread, unusual features). Please provide a clear and actionable set of principle findings for the original stakeholder.
+
+### Final GitHub Repository
+By EoD Friday of Week 5, your team will be expected to have committed their final changes to the repository. A Markdown file (README replacement) is expected to be pushed to the repo containing the following:
+- Project Contributors and their main responsibilites
+- Project overview containing a brief summary of the question answered, methodologies used, and any important links/citations
+- Clear and concise step-by-step explanation of code implementation
+- Summarized final results
+- Clear and concise commented code with Authors, Purpose Statement, Author Dates, and Most Recent Update
+
 
 ## Resources
 
