@@ -4,8 +4,8 @@ Welcome to the home base for the 2025 CU Athletic Department Sports Science inte
 ## Getting Started
 
 ###  Installing Git and RStudio
-1. Download and install Git (add link)
-2. Download and install RStudio (1.1.383 or higher) (add link)
+1. Download and install [Git](https://docs.github.com/en/get-started/git-basics/set-up-git)
+2. Download and install [RStudio (1.1.383 or higher)](https://posit.co/download/rstudio-desktop/)
 
 ### Clone the `data-analysis-2025` repository in order to collaborate with your teammates and the CU Sports Science staff
 1. On GitHub, navigate to the Code tab of the repository.
@@ -29,4 +29,8 @@ Feel free to create any other folders within the repository as you see fit. All 
 WORK IN PROGRESS
 
 ## Resources
-WORK IN PROGRESS
+
+- [Using GitHub with R and RStudio](https://resources.github.com/github-and-rstudio/)
+- [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
+- [Additional Useful R Packages](https://support.posit.co/hc/en-us/articles/201057987-Quick-list-of-useful-R-packages)
+- [GitHub Cheat Sheet](./general-documents/git-cheat-sheet-education.pdf)

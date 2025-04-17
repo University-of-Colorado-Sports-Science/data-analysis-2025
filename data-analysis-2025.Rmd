@@ -4,7 +4,7 @@ output: html_notebook
 ---
 
 ```{r}
-#Author: Blake Raphael
+#Authors: [INSERT NAMES HERE]
 #Author Date: April 8, 2025
 #Purpose: The purpose of this notebook is to house all data set transformation, cleansing, visualization, statistical analysis, and note-taking for the 2025 CU Athletic Department Sports Science Internship Program
 
@@ -13,7 +13,12 @@ output: html_notebook
 #Including necessary libraries
 library(tidyverse)
 library(readxl)
+library(ggplot2)
+library(aod)
 
-#Importing our first data set from an Excel document to a data frame
+#Example of importing our first data set from an Excel document to a data frame
 df1 <- read_excel("./foo/bar.xlsx")
+
+#Example of importing our first data set from a CSV file to a data frame.
+df2 <- read.csv("./foo/bar.csv")
 ```
