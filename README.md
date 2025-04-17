@@ -19,6 +19,8 @@ Welcome to the home base for the 2025 CU Athletic Department Sports Science inte
 ### Next Steps
 Now that you have the repository downloaded, open the R Markdown file entitled `data-analysis-2025.Rmd`. This will be the notebook where you are expected to compile your full data workflow with meaningful comments, accurate variable names, create visualizations, and perform your data analysis. Feel free to create additional R notebooks or R script files to explore the workflows you want to implement without doing work in the main document. The main `data-analysis-2025.Rmd` file has a few included libraries and headings to get you started and show some expected formatting. 
 
+The `general-documents` folder will contain a document entitled `group-assignments.pdf`. This document will list your group members, analysis questions, and which project (1 or 2) the analysis questions should be answered in. Please answer these **in the order they are given** since each is set up to work with the flow of the internship. In general, the first question will be a bit more concise and easier to answer, while the second will be slightly more in-depth since you will already have a flow with your team.
+
 The `data-sets` folder in the repository is the home for all of the cleansed data sets that will be provided to you from the CU Sports Science Team. They will be in both Excel (`.xlsx`) and Comma Separated Value (`.csv`) format for flexibility.
 
 The `notes` folder in the repository will be home to all note-taking documents throughout the project. Feel free to upload PDF (`.pdf`), Word (`.docx`), Plain text (`.txt`), Markdown (`.md`), or any other note document to this folder. Note taking is expected in meetings, researching, and general brainstorming. While not explicitly required, it will be helpful to see your thought processes if you encounter roadblocks, so good and thoughtful note-taking will only benefit you in the long-run.
@@ -26,8 +28,19 @@ The `notes` folder in the repository will be home to all note-taking documents t
 Feel free to create any other folders within the repository as you see fit. All we ask is that you keep the files we provide to you in their original file folder destinations.
 
 # Weekly Schedule
+This is a weekly schedule **per project**. The aim of this internship is to complete 2 projects, both of which will follow this schedule.
 
-For the regularly scheduled check-ins, we will meet twice a week: once on Monday and once on Friday. If your team needs or wants additional meetings, please reach out to us and we are happy to add times throughout the week!
+For the regularly scheduled check-ins, we will meet twice a week. During our first overall meeting, we will set recurring meeting schedules. If your team needs or wants additional meetings, please reach out to us and we are happy to add times throughout the course of the internship!
+
+During these meetings we will address 3 main ideas:
+1. Your team's to-do list to complete the project
+2. Your team's estimated capacity (the first meeting will address how much capacity you have for the week, the second meeting will address how much capacity your team has left this week).
+3. The following questions:
+  - What have you done since our last meeting?
+  - What do you plan on doing before the next meeting?
+  - What obstacles are impeding your work?
+  
+Your team **should not** set a singular project role for each member. Instead, your team is cross-functional, allowing members to work on anything that the team agrees on. 
 
 ## Week 1: Background and Research
 Key Deliverables:
