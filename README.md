@@ -12,7 +12,7 @@ Welcome to the home base for the 2025 CU Athletic Department Sports Science inte
 2. In the section where you select the Owner, please set it to `University-of-Colorado-Sports-Science` so that all of these repositories stay within our organization. This will make it easier to collaborate with your team and Sports Science staff.
 3. Please name the repository `t[team number]p[project number]-data-analysis-2025`. So if you are Team 1 and this is Project 2, your repo name will be `t1p2-data-analysis-2025`. This format will help keep us all organized and using the correct repositories when collaborating.
 
-### Clone the `data-analysis-2025` repository in order to collaborate with your teammates and the CU Sports Science staff
+### Clone the `t[team number]p[project number]-data-analysis-2025` repository in order to collaborate with your teammates and the CU Sports Science staff
 1. On GitHub, navigate to the Code tab of the repository.
 2. On the right side of the screen, click `Clone or download`.
 3. Click the `Copy to clipboard` icon to the right of the repository URL.
