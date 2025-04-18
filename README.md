@@ -7,6 +7,11 @@ Welcome to the home base for the 2025 CU Athletic Department Sports Science inte
 1. Download and install [Git](https://docs.github.com/en/get-started/git-basics/set-up-git)
 2. Download and install [RStudio (1.1.383 or higher)](https://posit.co/download/rstudio-desktop/)
 
+### Create a repository from this template
+1. Follow [this](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template) guide to create a repository from this template.
+2. In the section where you select the Owner, please set it to `University-of-Colorado-Sports-Science` so that all of these repositories stay within our organization. This will make it easier to collaborate with your team and Sports Science staff.
+3. Please name the repository `t[team number]p[project number]-data-analysis-2025`. So if you are Team 1 and this is Project 2, your repo name will be `t1p2-data-analysis-2025`. This format will help keep us all organized and using the correct repositories when collaborating.
+
 ### Clone the `data-analysis-2025` repository in order to collaborate with your teammates and the CU Sports Science staff
 1. On GitHub, navigate to the Code tab of the repository.
 2. On the right side of the screen, click `Clone or download`.
